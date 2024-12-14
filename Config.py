@@ -1,0 +1,2 @@
+BOT_TOKEN = "YOUR_BOT_TOKEN"
+FORCE_CHANNEL = "Sparrow_Bots"
