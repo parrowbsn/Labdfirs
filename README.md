@@ -153,7 +153,7 @@ This project is licensed under the MIT License.
 
 Support
 
-For any issues, contact the owner on Telegram: Harhsu_Raven.
+For any issues, contact the owner on Telegram: https://t.me/Harhsu_Raven .
 
 
 ---
